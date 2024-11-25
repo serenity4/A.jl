@@ -1,7 +1,7 @@
 name = "A"
 uuid = "47d48b73-69d3-45cf-a35e-ec04f73e22fa"
 authors = ["Cédric BELMANT"]
-version = "0.1.4"
+version = "0.1.5"
 
 [deps]
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
