@@ -1,7 +1,7 @@
 name = "A"
 uuid = "47d48b73-69d3-45cf-a35e-ec04f73e22fa"
 authors = ["Cédric BELMANT"]
-version = "0.1.0"
+version = "0.1.1"
 
 [weakdeps]
 B = "8c96a497-0f43-435e-97a0-27c7b1fed864"
