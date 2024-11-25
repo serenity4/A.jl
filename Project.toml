@@ -4,7 +4,7 @@ authors = ["Cédric BELMANT"]
 version = "0.1.0"
 
 [weakdeps]
-B = "0.1"
+B = "0.1, 0.2"
 
 [compat]
 julia = "1.10"
