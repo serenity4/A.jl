@@ -1,7 +1,7 @@
 name = "A"
 uuid = "47d48b73-69d3-45cf-a35e-ec04f73e22fa"
 authors = ["Cédric BELMANT"]
-version = "0.1.5"
+version = "0.1.6"
 
 [deps]
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
@@ -10,7 +10,7 @@ JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
 B = "8c96a497-0f43-435e-97a0-27c7b1fed864"
 
 [compat]
-B = "0.1, 0.2"
+B = "0.3"
 JSON3 = "1.14.1"
 julia = "1.10"
 
